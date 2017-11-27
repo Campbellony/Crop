@@ -1,0 +1,11 @@
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.Form1.resources
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.Properties.Resources.resources
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.csproj.GenerateResource.Cache
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\Crop\CropWinForm\bin\Debug\CropWinForm.exe.config
+C:\Users\Bill\source\repos\Crop\CropWinForm\bin\Debug\CropWinForm.exe
+C:\Users\Bill\source\repos\Crop\CropWinForm\bin\Debug\CropWinForm.pdb
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.exe
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.pdb
+C:\Users\Bill\source\repos\Crop\CropWinForm\obj\Debug\CropWinForm.PriceControl.resources

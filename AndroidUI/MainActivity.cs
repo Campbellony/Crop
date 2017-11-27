@@ -25,8 +25,7 @@ namespace AndroidUI
 
         protected void Refresh_Click()
         {
-            // var scrape = new Utility.WebScraper("https://www.ams.usda.gov/mnreports/bl_gr110.txt");
-            // var bp = Parsing.USDA_WY.Shred(scrape.Content);
+            System.Diagnostics.Trace.TraceInformation("Here");
         }
     }
 }

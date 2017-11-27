@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{EAAE6AC6-3942-4893-9B6E-B4396FD1658F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CropWinForm", "CropWinForm\CropWinForm.csproj", "{48D475FE-79A6-48B0-807E-F38EBF10A2E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{EAAE6AC6-3942-4893-9B6E-B4396FD1658F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAAE6AC6-3942-4893-9B6E-B4396FD1658F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAAE6AC6-3942-4893-9B6E-B4396FD1658F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D475FE-79A6-48B0-807E-F38EBF10A2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D475FE-79A6-48B0-807E-F38EBF10A2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D475FE-79A6-48B0-807E-F38EBF10A2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D475FE-79A6-48B0-807E-F38EBF10A2E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
