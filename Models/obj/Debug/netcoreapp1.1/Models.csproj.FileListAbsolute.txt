@@ -1,0 +1,8 @@
+C:\Users\Bill\source\repos\Crop\Models\bin\Debug\netcoreapp1.1\Crop.Models.deps.json
+C:\Users\Bill\source\repos\Crop\Models\bin\Debug\netcoreapp1.1\Crop.Models.dll
+C:\Users\Bill\source\repos\Crop\Models\bin\Debug\netcoreapp1.1\Crop.Models.pdb
+C:\Users\Bill\source\repos\Crop\Models\obj\Debug\netcoreapp1.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\Crop\Models\obj\Debug\netcoreapp1.1\Models.AssemblyInfo.cs
+C:\Users\Bill\source\repos\Crop\Models\obj\Debug\netcoreapp1.1\Crop.Models.dll
+C:\Users\Bill\source\repos\Crop\Models\obj\Debug\netcoreapp1.1\Crop.Models.pdb
+C:\Users\Bill\source\repos\Crop\Models\obj\Debug\netcoreapp1.1\Models.csprojResolveAssemblyReference.cache

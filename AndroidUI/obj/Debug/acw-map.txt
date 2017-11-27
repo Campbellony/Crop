@@ -1,0 +1,4 @@
+AndroidUI.MainActivity, AndroidUI;md5d1222df50c7349258c7e84d99efc846f.MainActivity
+AndroidUI.MainActivity, AndroidUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d1222df50c7349258c7e84d99efc846f.MainActivity
+AndroidUI.MainActivity;md5d1222df50c7349258c7e84d99efc846f.MainActivity
+androidui.MainActivity;md5d1222df50c7349258c7e84d99efc846f.MainActivity

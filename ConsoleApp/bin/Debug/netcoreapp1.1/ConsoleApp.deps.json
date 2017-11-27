@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "consoleapp/1.0.0": {
+        "dependencies": {
+          "Crop.Models": "1.0.0",
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "crop.models/1.0.0": {
+        "runtime": {
+          "Crop.Models.dll": {}
+        }
+      },
+      "utility/1.0.0": {
+        "runtime": {
+          "Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consoleapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "crop.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
